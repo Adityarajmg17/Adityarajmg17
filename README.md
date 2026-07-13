@@ -40,8 +40,8 @@ I am **Adityaraj Mahalappa Ghodke**, a **Full Stack Developer** and **Software E
 ### 📊 GitHub Stats & Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityarajmg17&show_icons=true&theme=tokyonight&hide_border=true&title_color=9D4EDD&icon_color=38bdf8" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarajmg17&layout=compact&theme=tokyonight&hide_border=true&title_color=9D4EDD&langs_count=6" alt="Top Languages" height="180px" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Adityarajmg17&show_icons=true&theme=tokyonight&hide_border=true&title_color=9D4EDD&icon_color=38bdf8" alt="GitHub Stats" height="180px" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adityarajmg17&layout=compact&theme=tokyonight&hide_border=true&title_color=9D4EDD&langs_count=6" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
