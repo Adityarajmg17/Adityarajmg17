@@ -48,25 +48,13 @@ I am **Adityaraj Mahalappa Ghodke**, a **Full Stack Developer** and **Software E
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityarajmg17&theme=tokyonight&hide_border=true&stroke=9D4EDD&ring=38bdf8&fire=ff007f" alt="GitHub Streak" height="180px" />
 </p>
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Adityarajmg17&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
 ### 📂 Featured Projects
 
 | Project | Tech Stack | Description | Live |
 | :--- | :--- | :--- | :---: |
-| **[Project One](https://github.com/Adityarajmg17)** | Node.js, Express, JavaScript | Describe your first project here (e.g., A web application or backend API). | [🔗 Repo](https://github.com/Adityarajmg17) |
-| **[Project Two](https://github.com/Adityarajmg17)** | Python, C++ | Describe your second project here (e.g., Algorithmic tool, desktop app, or automation script). | [🔗 Repo](https://github.com/Adityarajmg17) |
-| **[Project Three](https://github.com/Adityarajmg17)** | Java, REST APIs | Describe your third project here (e.g., Enterprise utility, DB connection service, etc.). | [🔗 Repo](https://github.com/Adityarajmg17) |
+| **[Vibe2Ship](https://github.com/Adityarajmg17/Vibe2Ship)** | JavaScript, HTML, CSS | An end-to-end logistics platform that streamlines shipping coordination and tracking. | [🔗 Repo](https://github.com/Adityarajmg17/Vibe2Ship) |
+| **[Sales Forecasting System](https://github.com/Adityarajmg17/Sales_Forecasting_System)** | Python, Machine Learning | A predictive intelligence platform built to analyze and forecast sales trends. | [🔗 Repo](https://github.com/Adityarajmg17/Sales_Forecasting_System) |
+| **[AI Resume Screener](https://github.com/Adityarajmg17/ai-resume-screener)** | Python, NLP | An automated screening tool that utilizes AI to filter resumes against job roles. | [🔗 Repo](https://github.com/Adityarajmg17/ai-resume-screener) |
 
 ---
 
